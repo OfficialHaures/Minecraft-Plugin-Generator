@@ -1,0 +1,14 @@
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\bin\Debug\net9.0-windows\Minecraft Gen.exe
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\bin\Debug\net9.0-windows\Minecraft Gen.deps.json
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\bin\Debug\net9.0-windows\Minecraft Gen.runtimeconfig.json
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\bin\Debug\net9.0-windows\Minecraft Gen.dll
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\bin\Debug\net9.0-windows\Minecraft Gen.pdb
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.AssemblyInfoInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.AssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.dll
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\refint\Minecraft Gen.dll
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.pdb
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\Minecraft Gen.genruntimeconfig.cache
+C:\Users\milan\OneDrive\Bureaublad\Minecraft Gen\obj\Debug\net9.0-windows\ref\Minecraft Gen.dll
